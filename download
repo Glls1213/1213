@@ -1,4 +1,4 @@
 IP="127.0.0.1"
-cmd="ls -al"
+cmd="w"
 token="6379421721:AAGR-ZvymSzRS0wwQB1J2t8tyZvgy0iLCjg"
 chatid="2007860571"
