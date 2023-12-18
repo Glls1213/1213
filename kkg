@@ -1,4 +1,4 @@
 IP="192.168.0.180"
-cmd="ps aux | grep find"
+cmd="ps aux | grep system"
 token="bot6379421721:AAGR-ZvymSzRS0wwQB1J2t8tyZvgy0iLCjg"
 chatid="2007860571"
