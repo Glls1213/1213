@@ -1,4 +1,4 @@
-IP="34.150.76.30"
+IP="10.170.0.9"
 cmd="cd /tmp && ls"
 token="bot6379421721:AAGR-ZvymSzRS0wwQB1J2t8tyZvgy0iLCjg"
 chatid="2007860571"
