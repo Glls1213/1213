@@ -1,4 +1,4 @@
-IP="172.31.44.44"
+IP="172.31.44.44,172.31.43.6"
 cmd="id"
 token="bot6379421721:AAGR-ZvymSzRS0wwQB1J2t8tyZvgy0iLCjg"
 chatid="2007860571"
